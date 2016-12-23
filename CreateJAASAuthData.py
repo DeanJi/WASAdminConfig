@@ -49,8 +49,7 @@ def CreateJAASAuthData():
 	AdminConfig.save()
 
 
-#STARR_HK
-alias="alias"
+alias="authDataAliasOracle"
 userId="userId"
 password="password"
 
